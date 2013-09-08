@@ -66,6 +66,9 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CDrawObj.h">
+      <Filter>scada头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="SCADA.cpp">
@@ -85,6 +88,9 @@
     </ClCompile>
     <ClCompile Include="SCADAView.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDrawObj.cpp">
+      <Filter>scada源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
